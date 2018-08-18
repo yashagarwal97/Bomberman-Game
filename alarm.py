@@ -1,0 +1,2 @@
+class AlarmException(Exception):
+	pass
